@@ -17,6 +17,7 @@ Each tool is its own mini-launch. The collection compounds into a portfolio.
 | #   | Tool | What it does |
 |-----|------|--------------|
 | 001 | [handoff-note](tools/001-handoff-note/) | Turns a git repo's state into a markdown context note for the next session |
+| 002 | [context-budget](tools/002-context-budget/) | Shows where your token budget goes before you spend it: per-file cost report against a budget |
 
 ## Running a tool
 
