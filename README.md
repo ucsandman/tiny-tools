@@ -19,6 +19,7 @@ Each tool is its own mini-launch. The collection compounds into a portfolio.
 | 001 | [handoff-note](tools/001-handoff-note/) | Turns a git repo's state into a markdown context note for the next session |
 | 002 | [context-budget](tools/002-context-budget/) | Shows where your token budget goes before you spend it: per-file cost report against a budget |
 | 003 | [context-scrub](tools/003-context-scrub/) | Strips secrets from text before you hand it to an agent: redacts keys, tokens, and private key blocks |
+| 004 | [context-tail](tools/004-context-tail/) | Trims a log or transcript to a token budget, keeping the most recent lines and marking the cut |
 
 ## Running a tool
 
