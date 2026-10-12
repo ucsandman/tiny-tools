@@ -20,6 +20,7 @@ Each tool is its own mini-launch. The collection compounds into a portfolio.
 | 002 | [context-budget](tools/002-context-budget/) | Shows where your token budget goes before you spend it: per-file cost report against a budget |
 | 003 | [context-scrub](tools/003-context-scrub/) | Strips secrets from text before you hand it to an agent: redacts keys, tokens, and private key blocks |
 | 004 | [context-tail](tools/004-context-tail/) | Trims a log or transcript to a token budget, keeping the most recent lines and marking the cut |
+| 005 | [repo-map](tools/005-repo-map/) | One-page markdown map of a codebase: tree, stats, biggest files, entry points |
 
 ## Running a tool
 
