@@ -21,6 +21,9 @@ Each tool is its own mini-launch. The collection compounds into a portfolio.
 | 003 | [context-scrub](tools/003-context-scrub/) | Strips secrets from text before you hand it to an agent: redacts keys, tokens, and private key blocks |
 | 004 | [context-tail](tools/004-context-tail/) | Trims a log or transcript to a token budget, keeping the most recent lines and marking the cut |
 | 005 | [repo-map](tools/005-repo-map/) | One-page markdown map of a codebase: tree, stats, biggest files, entry points |
+| 006 | [diff-summary](tools/006-diff-summary/) | Turns a git diff into a readable markdown summary: totals, per-file stats, sample changed lines |
+| 007 | [todo-scan](tools/007-todo-scan/) | Finds unfinished work markers (TODO, FIXME, XXX, HACK) in a codebase and reports them as a counted markdown list |
+| 008 | [env-check](tools/008-env-check/) | Finds the environment variables a codebase references and reports which are set, unset, or have defaults |
 
 ## Running a tool
 
