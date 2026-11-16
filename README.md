@@ -25,6 +25,7 @@ Each tool is its own mini-launch. The collection compounds into a portfolio.
 | 007 | [todo-scan](tools/007-todo-scan/) | Finds unfinished work markers (TODO, FIXME, XXX, HACK) in a codebase and reports them as a counted markdown list |
 | 008 | [env-check](tools/008-env-check/) | Finds the environment variables a codebase references and reports which are set, unset, or have defaults |
 | 009 | [context-merge](tools/009-context-merge/) | Merges multiple markdown context notes into one deduplicated note, keeping conflicting versions side by side |
+| 010 | [context-split](tools/010-context-split/) | Splits one long markdown note into numbered chunks, each under a token budget, at heading and paragraph boundaries |
 
 ## Running a tool
 
